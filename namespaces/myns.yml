@@ -4,3 +4,4 @@ metadata:
   labels:
     name: lamanifest
   name: lamanifest1
+namespace: lamanifest
